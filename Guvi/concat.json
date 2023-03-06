@@ -1,0 +1,11 @@
+{
+    "name":"chandeesh",
+    "city":"Namakkal",
+    "age": 24,
+    "Interest":["cricket","coding"],
+    "address":{
+        "line1":"Nanjundapuram",
+        "line2":"KN patty"
+    },
+    "ismarried": "flase"
+}
